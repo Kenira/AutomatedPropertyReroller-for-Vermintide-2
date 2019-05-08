@@ -16,7 +16,8 @@ Python libraries:
 
 How to use:
 
-- Input the path to the tesseract exe in the script.
+- Install all the requirements to be able to run the script
+- Input the path to the tesseract exe in the script as asked
 - Enter the names of the two properties you want. You can leave a property empty by just pressing enter if you only care about one specific property.
 - Prepare the item to be rerolled in the game. Go into the reroll crafting menu and select the item so that all you still need to do is click the "Reroll Properties" button.
 - When the script tells you to, you focus the game, and place the mouse over the reroll button (not click, just place).
