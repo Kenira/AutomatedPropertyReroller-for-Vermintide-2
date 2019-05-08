@@ -1,0 +1,7 @@
+v1.0:
+- tweaked screenshot coordinates to fix problems recognizing certain properties
+- added text for guiding users
+- added file for saving tesseract path
+
+v0.1:
+- initial release
